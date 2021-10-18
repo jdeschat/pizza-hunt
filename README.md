@@ -2,7 +2,7 @@
 ## Description
 Pizza Hunt—a self-aware riff on social-media applications that already exist for other topics—lets users connect with each other based on their love of pizza. In Pizza Hunt, users can share and discuss their dream pizza-topping combinations. Pizza is ubiquitous in everyday life all over the world, and no application has ever been created with the sole purpose of facilitating discussions about it. The client hopes to be the first to market with it, and they need your help.
 
-![alt text](https://github.com/jdeschat/Note-taker-challenge/blob/main/public/assets/images/pizza-hunt.png)
+![alt text](https://github.com/jdeschat/pizza-hunt/blob/main/public/assets/images/pizza-hunt.png)
 
 ## Table of Contents
 - [Description](#description)
