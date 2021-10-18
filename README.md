@@ -27,14 +27,15 @@ SO THAT they can retrieve data about their pizzas or other pizzas created throug
 To install this application, clone the code into your terminal for the respective repository. Then, install npm by entering the command ```npm install```  into the terminal. Install express and mongoose by entering ```npm i express``` and ```npm i mongoose``` into the command line, respectively.
 
 ## Usage
-1. Install npm: npm init -y
-2. Install express and mongoose: npm i express mongoose
-3. Go to deployed link via Heroku (found below)
-4. Click "Create a New Pizza" to go get started
-5. Start your masterpiece by entering the pizza name, who created it, pizza size, and toppings. You can then click "Submit Recipe" when you are done.
-6. You can either create another pizza by clicking "Create Your Own Pizza" on the top right corner, or you can see an overview of the other pizzas by clicking "See All Pizzas" on the right hand side.
-7. By clicking "See All Pizzas", You will see an overview of all pizzas created by people, sorted by date and time.
-8. Click "See the discussion" to see peoples comments and replies about a particular pizza of interest.
+1. Initialize npm: npm init -y
+2. Install npm: npm install
+3. Install express and mongoose: npm i express mongoose
+4. Go to deployed link via Heroku (found below)
+5. Click "Create a New Pizza" to go get started
+6. Start your masterpiece by entering the pizza name, who created it, pizza size, and toppings. You can then click "Submit Recipe" when you are done.
+7. You can either create another pizza by clicking "Create Your Own Pizza" on the top right corner, or you can see an overview of the other pizzas by clicking "See All Pizzas" on the right hand side.
+8. By clicking "See All Pizzas", You will see an overview of all pizzas created by people, sorted by date and time.
+9. Click "See the discussion" to see peoples comments and replies about a particular pizza of interest.
 
 ## Contributors
 To contribute to pizza-hunt, clone this repo locally and commit your code on a separate branch.
