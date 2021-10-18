@@ -37,7 +37,7 @@ To install this application, clone the code into your terminal for the respectiv
 8. Click "See the discussion" to see peoples comments and replies about a particular pizza of interest.
 
 ## Contributors
-To contribute to Professional-README-generator, clone this repo locally and commit your code on a separate branch.
+To contribute to pizza-hunt, clone this repo locally and commit your code on a separate branch.
   
 Contributors:
 
